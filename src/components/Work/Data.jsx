@@ -6,6 +6,7 @@ export const projectsData = [
     image:
       "https://outsideinsight.com/wp-content/uploads/2018/11/spotify-Header-1024x576.jpg",
     demo: "https://capstone-frontend-60.netlify.app/",
+    
   },
   {
     id: 2,
@@ -14,6 +15,7 @@ export const projectsData = [
     image:
       "https://www.boardinfinity.com/blog/content/images/2022/11/Your-paragraph-text--17-.jpg",
     demo: "https://routerdemo-60.netlify.app/",
+
   },
   {
     id: 3,
@@ -41,7 +43,7 @@ export const projectsData = [
   },
   {
     id: 6,
-    title: "Restfuk API's Demo",
+    title: "Restfull API's Demo",
     category: "Design",
     image:
       "https://i.pinimg.com/originals/f1/16/11/f116113742ec4fee623b0cdc0d7497ae.jpg",

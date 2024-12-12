@@ -31,7 +31,7 @@ const Qualification = () => {
                     Guvi Geeks Limited
                   </span>
                   <div className="qualification__calendar">
-                    <i className="uil uil-calendar-alt">2024 - Present</i>
+                    <i className="uil uil-calendar-alt">May 2024 - July 2024 </i>
                   </div>
                 </div>
 
