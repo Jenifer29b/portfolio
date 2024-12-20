@@ -7,6 +7,7 @@ export const projectsData = [
       "https://outsideinsight.com/wp-content/uploads/2018/11/spotify-Header-1024x576.jpg",
     demo: "https://capstone-frontend-60.netlify.app/",
     
+    
   },
   {
     id: 2,

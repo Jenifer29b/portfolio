@@ -31,7 +31,9 @@ const Qualification = () => {
                     Guvi Geeks Limited
                   </span>
                   <div className="qualification__calendar">
-                    <i className="uil uil-calendar-alt">May 2024 - July 2024 </i>
+                    <i className="uil uil-calendar-alt">
+                      May 2024 - July 2024{" "}
+                    </i>
                   </div>
                 </div>
 
@@ -76,6 +78,25 @@ const Qualification = () => {
                 <div>
                   <span className="qualification__rounder"></span>
                   <span className="qualification__line"></span>
+                </div>
+              </div>
+
+              <div className="qualification__data">
+                <div></div>
+                <div>
+                  <span className="qualification__rounder"></span>
+                  <span className="qualification__line"></span>
+                </div>
+                <div>
+                  <h3 className="qualification__title">
+                    SSLC
+                  </h3>
+                  <span className="qualification__subtitle">
+                    IHM Girls School
+                  </span>
+                  <div className="qualification__calendar">
+                    <i className="uil uil-calendar-alt">2018 - 2019</i>
+                  </div>
                 </div>
               </div>
             </div>
