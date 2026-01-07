@@ -28,7 +28,7 @@ Tools: Git, GitHub, VS Code,netlify,render
 
 🎓 Qualification
 
-Bachelor’s Degree / Diploma (update accordingly)
+Bachelor’s Degree in Computer Science
 
 Strong foundation in web development concepts
 
